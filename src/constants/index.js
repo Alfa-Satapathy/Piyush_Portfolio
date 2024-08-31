@@ -177,7 +177,7 @@ const projects = [
       },
     ],
     image: aptihealthWeb,
-    hosted_link: "https://www.aptihealth.com/",
+     // hosted_link: "https://www.aptihealth.com/",
   },
   {
     name: "Spinex Pain Management Web",
@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: zealWeb,
-    hosted_link: "https://getzeal.co/",
+    // hosted_link: "https://getzeal.co/",
   },
   {
     name: "Kavya Travel Point Web",
